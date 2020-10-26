@@ -1,6 +1,7 @@
 
 # SpringBoot Rest API Starter
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/503386f7e4f14a14b65fb3bd603b9c34)](https://app.codacy.com/gh/spinsage/springboot-starter-restapi?utm_source=github.com&utm_medium=referral&utm_content=spinsage/springboot-starter-restapi&utm_campaign=Badge_Grade)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Build Status](https://travis-ci.com/spinsage/springboot-starter-restapi.svg?branch=main)](https://travis-ci.com/spinsage/springboot-starter-restapi)
 
