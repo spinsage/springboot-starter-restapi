@@ -21,7 +21,7 @@ Boilerplate maven project for bootstrapping development of a Rest API applicatio
 <br><br>
 
 # LICENSE
-**SpringBoot Rest API Starter** is MIT-licensed.
+**SpringBoot Rest API Starter** is Apache 2.0 licensed.
 <br><br>
 
 # Let us know!
