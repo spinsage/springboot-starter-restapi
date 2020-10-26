@@ -2,11 +2,7 @@
 # SpringBoot Rest API Starter
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Build Status](https://travis-ci.com/spinsage/springboot-starter-rest.svg?branch=master)](https://travis-ci.com/spinsage/springboot-starter-rest)
-[![Black Duck Security Risk](https://copilot.blackducksoftware.com/github/repos/spinsage/springboot-starter-rest/branches/master/badge-risk.svg)](https://copilot.blackducksoftware.com/github/repos/spinsage/springboot-starter-rest/branches/master)
-[![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/spinsage/springboot-starter-rest.svg)](http://isitmaintained.com/project/spinsage/springboot-starter-rest "Average time to resolve an issue") 
-[![Percentage of issues still open](http://isitmaintained.com/badge/open/spinsage/springboot-starter-rest.svg)](http://isitmaintained.com/project/spinsage/springboot-starter-rest "Percentage of issues still open")
+[![Build Status](https://travis-ci.com/spinsage/springboot-starter-restapi.svg?branch=main)](https://travis-ci.com/spinsage/springboot-starter-restapi)
 
 Boilerplate maven project for bootstrapping development of a Rest API application using SpringBoot
 <br><br>
