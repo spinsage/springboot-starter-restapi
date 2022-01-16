@@ -8,21 +8,44 @@
 [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/spinsage/springboot-starter-restapi.svg)](http://isitmaintained.com/project/spinsage/springboot-starter-restapi "Average time to resolve an issue")
 [![Percentage of issues still open](http://isitmaintained.com/badge/open/spinsage/springboot-starter-restapi.svg)](http://isitmaintained.com/project/spinsage/springboot-starter-restapi "Percentage of issues still open")
 
-Boilerplate maven project for bootstrapping development of a Rest API application using SpringBoot
-<br><br>
-# Usage
-- Clone the repository
-- Execute the maven command
+Boilerplate maven project for bootstrapping development of a Rest API application using SpringBoot.
+
+
+## Getting Started
+
+### Build the application
+
+- Clone the repository.
+- Execute the maven command.
 
 	```bash
 	mvn clean package
 	```
+### Run the application
 
-# LICENSE
+#### Within a Docker container
+
+- Create a .env file by copying .env.sample.
+- Update environment variable values in the .env file as needed.
+- Execute docker-compose
+
+	```console
+	docker-compose up
+	```
+
+#### As a standalone application
+
+```console
+cd target
+java -jar springrest-0.0.1-SNAPSHOT.jar
+```
+
+## LICENSE
+
 **SpringBoot Rest API Starter** is Apache 2.0 licensed.
-<br><br>
 
-# Let us know!
+## Let us know!
+
 We at [**Spinsage**](https://www.spinsage.com/) would be happy if you send us links to your projects where you are using our code. Just send us an email at [opensource@spinsage.com](mailto:opensource@spinsage.com). 
 
 And do let us know if you have any queries or suggestions regarding our work.
