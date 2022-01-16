@@ -1,0 +1,11 @@
+version: "3.9"
+services:
+  api:
+    container_name: spring-rest-api
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: spring-rest-api
+    restart: always
+    ports:
+      - "8000:${SERVER_PORT}"
