@@ -19,7 +19,7 @@
 		<java.version>1.8</java.version>
 		<m2e.apt.activation>jdt_apt</m2e.apt.activation>
 		<org.mapstruct.version>1.4.2.Final</org.mapstruct.version>
-		<org.projectlombok.version>1.18.14</org.projectlombok.version>
+		<org.projectlombok.version>1.18.22</org.projectlombok.version>
 		<swagger.version>3.0.0</swagger.version>
 		<log4j2.version>2.17.1</log4j2.version>
 	</properties>
